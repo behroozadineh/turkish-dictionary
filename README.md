@@ -14,6 +14,15 @@ Two versions available:
 - Edit existing entries
 - Export to Excel
 
+## Download Executable (.exe)
+
+No Python installation needed! Download the ready-to-run executable from Google Drive:
+
+| Version | Download |
+|---------|----------|
+| Turkish → Persian | [Download from Google Drive] (https://drive.google.com/file/d/1mkTDDcf6KP7sZc0BL7RRA-G8dqRdHLMC/view?usp=sharing) |
+| Turkish → English | [Download from Google Drive] https://drive.google.com/file/d/1DLp-6h1FURJILHafqblA5PG1RNm4Ppb2/view?usp=sharing|
+
 ## How to Use
 
 1. Enter Turkish word or phrase
